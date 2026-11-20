@@ -1,5 +1,10 @@
 # RAVA8 Desk Totem Enclosure
 
+**Status: draft, not yet test printed.** The dimensions come straight from the
+board's EAGLE design files and the boards are in hand, but no fit print has
+happened yet. If you print one before this notice disappears, treat it as a
+draft and check the "Before printing" section below.
+
 A parametric two part enclosure for the RAVA8 TRNG (gabrielguerrer/rava8_rng).
 No published enclosure exists for this board; this one is modeled from the
 exact geometry in the repo's EAGLE file (`src/rng_rava.brd`): 37.02 x 59.92 mm
