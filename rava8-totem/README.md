@@ -25,11 +25,16 @@ Outer size: 42.8 x 88.7 x 22.6 mm. "RAVA8" is engraved on the right flank.
 - `rava8_totem_body.stl`: main shell. Print back face down, no supports.
 - `rava8_totem_diffuser.stl`: front panel. Print flat.
 
-## Print settings (Inventor Center)
+## Print settings
 
-- Body: PETG or PLA, 0.2 mm layers, 3 perimeters, 15 percent infill.
-- Diffuser: transparent or natural filament, 2 perimeters, 0 to 5 percent
-  infill, or print it in white at 1 perimeter for a softer glow.
+PLA is the recommended material. The board inside draws well under half a
+watt, so the case barely warms above room temperature; the only heat caveat
+is the usual PLA one (do not leave it in a hot car or direct summer sun).
+
+- Body: PLA, 0.2 mm layers, 3 perimeters, 15 percent infill. Any color.
+- Diffuser: clear or natural PLA, 2 perimeters, 0 to 5 percent infill, or
+  white PLA at 1 perimeter for a softer glow. PETG also works for either
+  part if a printer is already set up for it.
 - No supports for either part. Minor sag inside the front groove lip is
   cosmetic and does not affect the slide fit.
 
